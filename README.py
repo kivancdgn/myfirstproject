@@ -62,7 +62,11 @@ engine.add_entity(player)
 engine.run()
 
 #Şimdi Kod bu kadardı 1. Başlatma 2. satırda analiz bu kadar şuan 
-
+//
+  //
+def uptade(labe, keys);800
+self.speed = add_entity
+Finish("Run")
 
 
 
